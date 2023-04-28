@@ -7,7 +7,6 @@ import plotly.graph_objects as go
 from wordcloud import WordCloud, STOPWORDS
 import matplotlib.pyplot as plt
 from textblob import TextBlob
-import random
 import cleantext
 
 DATA_URL = (
