@@ -9,7 +9,6 @@ import matplotlib.pyplot as plt
 from textblob import TextBlob
 import random
 import cleantext
-import datetime
 
 DATA_URL = (
     "Tweets.csv"
