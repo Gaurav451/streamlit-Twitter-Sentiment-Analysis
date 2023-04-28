@@ -4,3 +4,7 @@ numpy
 plotly
 wordcloud
 matplotlib
+textblob
+random
+cleantext
+datetime
